@@ -6,4 +6,4 @@ Slick's Slices is a fully functional pizza website that allows users to browse a
 
 ## Technologies Used
 
-GatsbyJs, Sanity, NodeJs, React, GraphQL, NodeMailer, Styled Components, React-Helmet.
+Gatsby.js, Sanity, Node.js, React, GraphQL, NodeMailer, Styled Components, React-Helmet.
